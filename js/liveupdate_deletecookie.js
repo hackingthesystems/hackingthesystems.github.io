@@ -6,5 +6,3 @@ eraseCookie("siteTitle")
 eraseCookie("siteFavicon")
 eraseCookie("autoTitle")
 eraseCookie("autoFavicon")
-
-window.location.reload(false); 
