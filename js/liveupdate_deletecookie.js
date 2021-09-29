@@ -6,3 +6,4 @@ eraseCookie("siteTitle")
 eraseCookie("siteFavicon")
 eraseCookie("autoTitle")
 eraseCookie("autoFavicon")
+location.reload();
